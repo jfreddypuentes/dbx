@@ -31,4 +31,4 @@ Driver for connecting to x database. One driver, many databases
 
 ## Sobre la libreria
 Gasté mucho tiempo configurando, probando script, drivers, buscando archivos para conectarme a varias BD de datos al tiempo para extraer datos.
-El objetivo de esta libreria es servir interfaz única de conexión, facil de usar y veloz para liberar al desarrollador de programar distintas interfaces segun la base de datos.
+El objetivo de esta libreria es servir una interfaz única de conexión, facil de usar y veloz para liberar al desarrollador de programar distintas interfaces segun la base de datos.
