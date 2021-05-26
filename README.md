@@ -1,7 +1,7 @@
 # dbx
 Driver for connecting to x database. One driver, many databases
 
-<h1 align="center">spanlp</h1>
+<h1 align="center">dbx</h1>
 
 <p align="center">
   <br>
