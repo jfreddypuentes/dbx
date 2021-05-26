@@ -1,9 +1,7 @@
-# dbx
-Driver for connecting to x database. One driver, many databases
-
 <h1 align="center">dbx</h1>
 
 <p align="center">
+  Driver for connecting to x database. One driver, many databases
   <br>
   <i>DBX es una librería en desarrollo que facilita la conexión de aplicaciones Java y Python a base de datos relacionales; Elimina el uso, configuración y desarrollo personalizado de drivers, scripts, archivos que hay que hacer y tener cuando quiero conectarme a más de una base de datos y hacer operaciones sobre esta.
     </i>
